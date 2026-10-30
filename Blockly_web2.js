@@ -87,7 +87,6 @@ let elements = {
             target: "_self"
         },
         allowedChildren: null,
-        props: ["href", "target"],
         props: [
             {prop: "href", label: "آدرس لینک", type: "text"},
             {prop: "target", label: "نحوه باز شدن لینک", type: "select"}
